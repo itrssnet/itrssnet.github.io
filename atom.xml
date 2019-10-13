@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://itrssnet.github.io</id>
+    <id>https://itrss.net</id>
     <title>他知 - ITRSS.Net</title>
-    <updated>2019-10-13T13:51:13.895Z</updated>
+    <updated>2019-10-13T13:52:53.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://itrssnet.github.io"/>
-    <link rel="self" href="https://itrssnet.github.io/atom.xml"/>
+    <link rel="alternate" href="https://itrss.net"/>
+    <link rel="self" href="https://itrss.net/atom.xml"/>
     <subtitle>怀旧资源库</subtitle>
-    <logo>https://itrssnet.github.io/images/avatar.png</logo>
-    <icon>https://itrssnet.github.io/favicon.ico</icon>
+    <logo>https://itrss.net/images/avatar.png</logo>
+    <icon>https://itrss.net/favicon.ico</icon>
     <rights>All rights reserved 2019, 他知 - ITRSS.Net</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://itrssnet.github.io/post/about</id>
-        <link href="https://itrssnet.github.io/post/about">
+        <id>https://itrss.net/post/about</id>
+        <link href="https://itrss.net/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://itrssnet.github.io/post/hello-gridea</id>
-        <link href="https://itrssnet.github.io/post/hello-gridea">
+        <id>https://itrss.net/post/hello-gridea</id>
+        <link href="https://itrss.net/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
