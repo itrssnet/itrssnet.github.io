@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://itrssnet.github.io</id>
+    <title>他知 - ITRSS.Net</title>
+    <updated>2019-10-13T13:51:13.895Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://itrssnet.github.io"/>
+    <link rel="self" href="https://itrssnet.github.io/atom.xml"/>
+    <subtitle>怀旧资源库</subtitle>
+    <logo>https://itrssnet.github.io/images/avatar.png</logo>
+    <icon>https://itrssnet.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, 他知 - ITRSS.Net</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://itrssnet.github.io/post/about</id>
+        <link href="https://itrssnet.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://itrssnet.github.io/post/hello-gridea</id>
+        <link href="https://itrssnet.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
